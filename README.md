@@ -32,7 +32,7 @@
 
 ---
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,tailwind,bootstrap,mysql,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,androidstudio,tailwind,bootstrap,mysql,git,vscode)](https://skillicons.dev)
 ---
 ### 📊 GitHub Stats & Summary
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadhil30-0211&theme=dark)
