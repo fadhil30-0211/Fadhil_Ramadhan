@@ -15,11 +15,11 @@
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,tailwind,bootstrap,mysql,git,vscode)](https://skillicons.dev)
 
-### 📊 GitHub Stats & Achievements
+### 📊 GitHub Stats & Summary
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadhil30-0211&theme=dark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fadhil30-0211&theme=onedark&column=6)
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhil30-0211&theme=solarized_dark)
 
 ---
 ### 🌐 Connect with Me
