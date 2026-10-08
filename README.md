@@ -4,11 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=Full-Stack+Web+Developer;Laravel+%26+Flutter+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
-## 🙋‍♂️ About Me
-I am a passionate **Full-Stack Web & Mobile Developer** dedicated to crafting efficient, scalable, and user-friendly applications. With a strong foundation in PHP, JavaScript, and Dart, I specialize in building modern web platforms using **Laravel** and cross-platform mobile apps using **Flutter**.
-- 🔭 **Current Focus:** Developing enterprise web applications and mobile solutions.
-- 🌱 **Learning & Exploring:** Advanced microservices architecture and cloud technologies.
-- 💡 **Mindset:** Quick learner, problem solver, and collaborative team player.
+<h2>🙋‍♂️ About Me</h2>
+<p>I am a passionate <b>Full-Stack Web & Mobile Developer</b> dedicated to crafting efficient, scalable, and user-friendly applications. With a strong foundation in PHP, JavaScript, and Dart, I specialize in building modern web platforms using <b>Laravel</b> and cross-platform mobile apps using <b>Flutter</b>.</p>
+<ul>
+  <li>🔭 <b>Current Focus:</b> Developing enterprise web applications and mobile solutions.</li>
+  <li>🌱 <b>Learning & Exploring:</b> Advanced microservices architecture and cloud technologies.</li>
+  <li>💡 <b>Mindset:</b> Quick learner, problem solver, and collaborative team player.</li>
+</ul>
 <br />
 <p align="left">
   <a href="mailto:fadhilramadhan743@gmail.com">
