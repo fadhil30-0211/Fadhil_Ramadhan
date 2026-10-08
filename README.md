@@ -4,8 +4,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,tailwind,bootstrap,mysql,git,vscode)](https://skillicons.dev)
 
 ### GitHub Stats
-![GitHub Stats](fadhil30-0211)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fadhil30-0211&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=radial)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@contoh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadhil30-0211)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilramadhan743.com)
