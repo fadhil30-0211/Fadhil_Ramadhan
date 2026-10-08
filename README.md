@@ -5,10 +5,11 @@
   </a>
 </p>
 ## 🙋‍♂️ About Me
-I am a passionate **Full-Stack Web & Mobile Developer** dedicated to crafting efficient, scalable, and user-friendly applications[span_0](start_span)[span_0](end_span). With a strong foundation in PHP, JavaScript, and Dart, I specialize in building modern web platforms using **Laravel** and cross-platform mobile apps using **Flutter**[span_1](start_span)[span_1](end_span). 
+I am a passionate **Full-Stack Web & Mobile Developer** dedicated to crafting efficient, scalable, and user-friendly applications. With a strong foundation in PHP, JavaScript, and Dart, I specialize in building modern web platforms using **Laravel** and cross-platform mobile apps using **Flutter**.
 - 🔭 **Current Focus:** Developing enterprise web applications and mobile solutions.
 - 🌱 **Learning & Exploring:** Advanced microservices architecture and cloud technologies.
-- 💡 **Mindset:** Quick learner, problem solver, and collaborative team player[span_2](start_span)[span_2](end_span).
+- 💡 **Mindset:** Quick learner, problem solver, and collaborative team player.
+<br />
 <p align="left">
   <a href="mailto:fadhilramadhan743@gmail.com">
     <img src="https://img.shields.io/badge/Email-fadhilramadhan743%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
